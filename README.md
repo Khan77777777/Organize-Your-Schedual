@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/icon/cal512.png" alt="Calendar icon" width="200">
+<img src="/cal512.png" alt="Calendar icon" width="200">
 </p>
 
 <h1 align="center"> Organizer Your Schedual </h1>
@@ -105,6 +105,12 @@ npm start
 - [React](https://reactjs.org/) - Front End Framwork
 - [Create React App](https://github.com/facebookincubator/create-react-app) - Dependency Management
 - [Semantic UI React](https://react.semantic-ui.com/) - CSS Framework
+
+## Testing and Validation
+
+<p align="center">
+<img src="/Tets.jpg" alt="Calendar icon" width="200">
+</p>
 
 ## Contributing
 
