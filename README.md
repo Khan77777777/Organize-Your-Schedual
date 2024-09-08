@@ -109,7 +109,7 @@ npm start
 ## Testing and Validation
 
 <p align="center">
-<img src="/Tets.jpg" alt="Calendar icon" width="200">
+<img src="/Tests.jpg" alt="Calendar icon" width="200">
 </p>
 
 ## Contributing
