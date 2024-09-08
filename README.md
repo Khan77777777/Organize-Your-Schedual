@@ -2,7 +2,7 @@
 <img src="/icon/cal512.png" alt="Calendar icon" width="200">
 </p>
 
-<h1 align="center"> Schedule Maker - Organizer </h1>
+<h1 align="center"> Organizer Your Schedual </h1>
 
 <em>A web application that makes it easy to create a weekly schedule. Meant for students, professionals, parents, and anyone looking to organize their life.</em>
 
@@ -60,12 +60,6 @@ zypper install nodejs4
 
 ### Installing
 
-First, you need to clone the repository. Run the following command:
-
-```
-git clone https://github.com/czonios/schedule-maker-app.git
-```
-
 Enter the repository:
 
 ```
@@ -116,22 +110,11 @@ npm start
 
 Contributions are welcome. You can tackle anything you see fit or an issue, and communicate with us so we can add you to the Trello team.
 
-## Authors
-
-- **Christos Zonios** - _Initial work_ - [Chris' Github](https://github.com/czonios)
-- **Paul Spheeris** - _Initial work_ - [Paul's Github](https://github.com/paspheeris)
-
-See also the list of [contributors](https://github.com/czonios/schedule-maker-app/graphs/contributors) who participated in this project.
-
 ## License
 
 MIT License
 
 Copyright (c) 2024-09-05
-
-MIT License
-
-Copyright (c) 2024
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
