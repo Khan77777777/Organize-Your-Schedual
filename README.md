@@ -112,6 +112,12 @@ npm start
 <img src="/Tests.jpg" alt="Calendar icon" width="600" hight="400">
 </p>
 
+## UML Use Case Diagram
+
+<p align="center">
+<img src="/uml1.png" alt="Calendar icon" width="600" hight="400">
+</p>
+
 ## Contributing
 
 Contributions are welcome. You can tackle anything you see fit or an issue, and communicate with us so we can add you to the Trello team.
